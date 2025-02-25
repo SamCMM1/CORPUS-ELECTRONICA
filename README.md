@@ -1,10 +1,14 @@
 Esta pasta contém vários documentos referentes aos Anexos da Tese de Mestrado Corpus Electronica.
+
+
 ** Conteúdo *************************************************************************************
+
 Instrumentos Max4Live.
 Código de Arduino para a interface OSCA1 modelo Arduino Iot.
 Imagens esquemáticas da estratégia no DAW Ableton Live 12 e sintetizador modular.
 
 Instalaçao*********************************************************************************
+
 1 Download do ficheiro Corpus-Electronica do GitHub.
 2 unzip.
 3 Download da versão trial do Ableton Live 12.
@@ -14,6 +18,7 @@ Instalaçao*********************************************************************
 
 
 ** Notas ************************************************************************************
+
 Criar uma sessao no Ableton Live de acordo o esquema nas imagens ou á escolha do utilizador.
 Download e instalação das livrarias Max Msp : SP-tools, Flucoma e CNMAT.
 Vídeos podem ser encontrados em: https://www.youtube.com/playlist?list=PLpE_XeEKNMJMgLuda97xP70O6dmvRDL3n
